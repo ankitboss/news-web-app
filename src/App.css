@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: rgb(245, 238, 238);
+  box-sizing: content-box;
+  box-shadow: 10px 12px 20px rgba(76, 226, 141, 0.404);
+}
+
+/* .slides {
+  position: relative;
+  width: 600px;
+  min-height: 400px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 25px 45px rgb(0 0 0 / 10%);
+} */
